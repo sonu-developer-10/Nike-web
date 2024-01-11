@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sonu-developer-10.github.io/react-project-1"
+  "homepage": "https://sonu-developer-10.github.io/react-project-1",
   "name": "project-1",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
