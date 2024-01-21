@@ -24,36 +24,43 @@ button{
 .container{
   max-width: 1280px;
   margin: 0 auto;
+  padding: 20px;
 }
 nav{
   display: flex;
   justify-content: space-between;
-  height: 72px;
+  height: auto;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 nav ul{
   display: flex;
   list-style-type: none;
   gap: 24px;
+  flex-wrap: wrap;
 }
 
 .hero{
   display: flex;
   align-items: center;
-  height: calc(100vh - 72px);
+  height: 85vh;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .hero-content{
   display: flex;
   flex-direction: column;
   gap: 36px;
+  flex-wrap: wrap;
+  max-width: 600px;
 }
 
 .hero h1{
-  font-size: 108px;
+  font-size: 6vw;
   font-weight: 800;
-  line-height: 102px;
+  line-height: 1.2;
 }
 .hero p{
 
@@ -82,4 +89,14 @@ nav ul{
 .brand-icons{
   display: flex;
   gap: 16px;
+}
+.hero-image img{
+  width: 100%;
+}
+
+@media only screen and (max-width: 767px) {
+  nav{
+    justify-content: center;
+    gap: 40px;
+  }
 }
