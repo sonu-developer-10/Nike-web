@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sonu-developer-10/nike-web/static/css/main.e07744f3.css",
+    "main.js": "/sonu-developer-10/nike-web/static/js/main.1610b4a5.js",
+    "static/js/787.2cfab07e.chunk.js": "/sonu-developer-10/nike-web/static/js/787.2cfab07e.chunk.js",
+    "static/media/shoe_image.png": "/sonu-developer-10/nike-web/static/media/shoe_image.1162ba39506df8750ad8.png",
+    "index.html": "/sonu-developer-10/nike-web/index.html",
+    "main.e07744f3.css.map": "/sonu-developer-10/nike-web/static/css/main.e07744f3.css.map",
+    "main.1610b4a5.js.map": "/sonu-developer-10/nike-web/static/js/main.1610b4a5.js.map",
+    "787.2cfab07e.chunk.js.map": "/sonu-developer-10/nike-web/static/js/787.2cfab07e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e07744f3.css",
+    "static/js/main.1610b4a5.js"
+  ]
+}
